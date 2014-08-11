@@ -1,0 +1,18 @@
+﻿Build started 1/12/2011 15:42:01.
+     1>Project "C:\Users\Samuel_ting\Documents\Visual Studio 2010\Projects\ProjectFramework20111130\ProjectFramework\GrTown\GrTown.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Release\GrTown.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         GrTown.vcxproj -> C:\Users\Samuel_ting\Documents\Visual Studio 2010\Projects\ProjectFramework20111130\ProjectFramework\GrTown\Release\GrTown.exe
+       FinalizeBuildStatus:
+         Deleting file "Release\GrTown.unsuccessfulbuild".
+         Touching "Release\GrTown.lastbuildstate".
+     1>Done Building Project "C:\Users\Samuel_ting\Documents\Visual Studio 2010\Projects\ProjectFramework20111130\ProjectFramework\GrTown\GrTown.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.23
