@@ -5,6 +5,8 @@ put [glut32.dll](http://user.xmission.com/~nate/glut.html) in
 ```
 C:\Windows\system
 ```
+Run GrTown/Release/GrTown.exe
+
 # Screenshot
 ![ss1](/screenshots/ss1.png)
 ![ss2](/screenshots/ss2.png)
